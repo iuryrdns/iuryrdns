@@ -73,4 +73,7 @@ Estas são algumas das linguagens e ferramentas que utilizo nos meus projetos e 
 </p>
 
 
-![snake gif](https://github.com/iuryrdns/iuryrdns/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/iuryrdns/iuryrdns/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://github.com/iuryrdns/iuryrdns/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
