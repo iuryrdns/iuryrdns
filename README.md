@@ -61,3 +61,7 @@ Estas são algumas das linguagens e ferramentas que utilizo nos meus projetos e 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iuryrdns&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Iury Ruan" /> 
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuryrdns&layout=compact&langs_count=7&theme=to_
+
+
+![Snake animation](https://github.com/iuryrdns/iuryrdns/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) 
+![Snake animation](https://github.com/iuryrdns/iuryrdns/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
