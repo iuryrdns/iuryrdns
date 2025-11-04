@@ -4,11 +4,11 @@
 
 ---
 
-##  🌱 Meus Interesses e Foco Atual
+## 🌱 Meus Interesses e Foco Atual
 
 Atualmente, meu foco principal é a área de **Inteligência Artificial**.
 
-* 🔭 Estou desenvolvendo um projeto que explora a intersecção entre **IA e Música**.
+* 🔭 Estou desenvolvendo um projeto que explora a intersecção entre **IA e Música**.  
 * 🤔 Tenho grande interesse em *Machine Learning*, *Deep Learning* e como algoritmos podem entender e gerar padrões complexos.
 
 ---
@@ -17,7 +17,7 @@ Atualmente, meu foco principal é a área de **Inteligência Artificial**.
 
 Estas são algumas das linguagens e ferramentas que utilizo nos meus projetos e estudos:
 
-<p align="left">
+<p align="center">
   <a href="https://www.python.org" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   </a>
@@ -30,9 +30,6 @@ Estas são algumas das linguagens e ferramentas que utilizo nos meus projetos e 
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL/SQL">
   </a>
-  
-  <br><br>
-  
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   </a>
@@ -48,7 +45,7 @@ Estas são algumas das linguagens e ferramentas que utilizo nos meus projetos e 
 
 ### 📫 Como me encontrar
 
-<p align="left">
+<p align="center">
   <a href="mailto:SEU-EMAIL@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
@@ -59,21 +56,8 @@ Estas são algumas das linguagens e ferramentas que utilizo nos meus projetos e 
 
 ---
 
-### 📊 Estatísticas GitHub
+### 📊 Estatísticas do GitHub
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iuryrdns&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Iury Ruan" /> 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuryrdns&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens Mais Usadas por Iury Ruan" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=iuryrdns&theme=bear&background=000&border=30A3DC&dates=FFF" alt="GitHub Streak" />
-  </a>
-</p>
-
-
-![Snake animation](https://github.com/iuryrdns/iuryrdns/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Snake animation](https://github.com/iuryrdns/iuryrdns/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuryrdns&layout=compact&langs_count=7&theme=to_
