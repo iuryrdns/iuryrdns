@@ -71,3 +71,6 @@ Estas são algumas das linguagens e ferramentas que utilizo nos meus projetos e 
     <img src="https://streak-stats.demolab.com/?user=iuryrdns&theme=bear&background=000&border=30A3DC&dates=FFF" alt="GitHub Streak" />
   </a>
 </p>
+
+
+![snake gif](https://github.com/iuryrdns/iuryrdns/blob/output/github-contribution-grid-snake.gif)
