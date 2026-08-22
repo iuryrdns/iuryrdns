@@ -11,7 +11,7 @@ I love exploring different programming paradigms and backend technologies. I'm c
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,clojure,postgres,mysql,git,github,vscode,linux" width="700px"/>
+    <img src="https://skillicons.dev/icons?i=python,java,clojure,postgres,git,github,vscode,linux" width="700px"/>
   </a>
 </p>
 
